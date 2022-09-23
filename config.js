@@ -32,11 +32,11 @@ var config = {
     desc: {
         turn_on: "点一下试试？",
         play: "来点音乐~",
-        bannar_coming: "颜色",
+        bannar_coming: "来点氛围感哦~",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "生日快乐呀宝~",
         story: "A MESSAGE FOR YOU",
     }
 };
