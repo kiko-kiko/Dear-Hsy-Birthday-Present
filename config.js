@@ -10,7 +10,7 @@ var config = {
         "第48天了哦~",//love
         "你知道吗",
         "这些日子里",
-        "我每天都很想你",//shadow
+        "我每天都很想你哦",//shadow
         "你也很想我叭~",
         "我好想念",
         "和你漫步在北京街头的那几天",//mt
@@ -23,10 +23,10 @@ var config = {
         "并没有因此变远",//airport
         "甚至",
         "变得更近了呢",//shoes
-        "我们还有十个月才能再见面",//alley
+        "我们还有十个月才能再见",//alley
         "但是别担心！",
         "我会一直在家里等你回来的！",//lake
-        "有好多好多的事情",
+        "有好多好多的事",
         "想和你一起去完成",
         "有好多好多话",
         "想对你说",
@@ -34,12 +34,14 @@ var config = {
         "那就先",
         "祝你在London过的开心",//street
         "好好玩也要好好学习哦~",//church
+        "我一直都在",
         "祝你快乐，不只生日",
         "祝你快乐，尤其生日",
         "Happy birthday~",
         "my sweetheart",//kiss
         "Yours",
         "石佳玥",//riverme
+        "爱你！",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -72,11 +74,11 @@ var config = {
     desc: {
         turn_on: "试着点一下~",
         play: "来点音乐~",
-        bannar_coming: "来点氛围感哦~",
+        bannar_coming: "要来点氛围感哦~",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        cake_fadein: "来个蛋糕",
+        light_candle: "再点个蜡烛叭",
         wish_message: "生日快乐呀宝~",
-        story: "A MESSAGE FOR YOU",
+        story: "有一封信待查收",
     }
 };
