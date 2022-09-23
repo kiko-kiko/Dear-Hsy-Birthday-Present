@@ -16,11 +16,11 @@ var config = {
         "和你漫步在北京街头的那几天",//mt
         "我好希望",
         "能快点再和你见面",//clould
-        "虽然相隔万里",
+        "虽然相隔万里",//plane
         "但是",
         "我能感受到",
         "我们之间的距离",
-        "并没有因此被拉远",
+        "并没有因此被拉远",//airport
         "甚至",
         "变得更近了呢",//shoes
         "我们还有十个月才能再见面",//alley
@@ -61,7 +61,8 @@ var config = {
         "变得更近了呢" : "./imgs/shoes.jpg",
         "我们还有十个月才能再见面" : "./imgs/alley.jpg",
         "我会一直在家里等你回来的！" : "./imgs/lake.jpg",
-        "虽然相隔万里" : "./imgs/airpot.jpg",
+        "虽然相隔万里" : "./imgs/plane.jpg",
+        "并没有因此被拉远" : "./imgs/airport.jpg",
         "祝你在London过的开心":"./imgs/street.jpg",
          "好好玩也要好好学习哦~" : "./imgs/church.jpg",
         "my sweetheart":"./imgs/kiss.jpg",
