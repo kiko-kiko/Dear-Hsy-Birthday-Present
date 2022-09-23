@@ -20,7 +20,7 @@ var config = {
         "但是",
         "我能感受到",
         "我们之间的距离",
-        "并没有因此被拉远",//airport
+        "并没有因此变远",//airport
         "甚至",
         "变得更近了呢",//shoes
         "我们还有十个月才能再见面",//alley
@@ -32,10 +32,10 @@ var config = {
         "想对你说",
         "纸短情长",
         "那就先",
-        "祝你快乐，不只生日",
-        "祝你快乐，尤其生日",
         "祝你在London过的开心",//street
         "好好玩也要好好学习哦~",//church
+        "祝你快乐，不只生日",
+        "祝你快乐，尤其生日",
         "Happy birthday~",
         "my sweetheart",//kiss
         "Yours",
@@ -62,7 +62,7 @@ var config = {
         "我们还有十个月才能再见面" : "./imgs/alley.jpg",
         "我会一直在家里等你回来的！" : "./imgs/lake.jpg",
         "虽然相隔万里" : "./imgs/plane.jpg",
-        "并没有因此被拉远" : "./imgs/airport.jpg",
+        "并没有因此变远" : "./imgs/airport.jpg",
         "祝你在London过的开心":"./imgs/street.jpg",
          "好好玩也要好好学习哦~" : "./imgs/church.jpg",
         "my sweetheart":"./imgs/kiss.jpg",
