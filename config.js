@@ -78,7 +78,7 @@ var config = {
         "虽然相隔万里" : "./imgs/plane.jpg",
         "并没有因此变远" : "./imgs/airport.jpg",
         "祝你在London过的开心":"./imgs/street.jpg",
-         "好好玩也要好好学习哦~" : "./imgs/church.jpg",
+        "好好玩也要好好学习哦~" : "./imgs/church.jpg",
         "my sweetheart":"./imgs/kiss.jpg",
         "石佳玥":"./imgs/riverme.jpg",
     },
