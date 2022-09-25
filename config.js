@@ -18,9 +18,9 @@ var config = {
         "能快点再和你见面",//clould
         "虽然相隔万里",//plane
         "但是",
-        "我能感受到",
+        "我能感受到",//airport
         "我们之间的距离",
-        "并没有因此变远",//airport
+        "并没有因此变远",//videoLondon
         "甚至",
         "变得更近了呢",//shoes
         "我们还有十个月才能再见",//alley
@@ -41,7 +41,7 @@ var config = {
         "石佳玥",//riverme
         "爱你！",
         "不要走开",
-        "还有一个小彩蛋哦",
+        "还有一个小彩蛋哦~",
         "再说一下心里话：",
         "好幸运",
         "我能遇到你啊",
@@ -50,7 +50,8 @@ var config = {
         "我很贪心",
         "我不只想要你的爱情",
         "我也想",
-        "带着你一起过一过更好的人生！",
+        "带着你一起",
+        "过一过更好的人生！",//cuteCat
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -73,11 +74,13 @@ var config = {
         "我们还有十个月才能再见面" : "./imgs/alley.jpg",
         "我会一直在家里等你回来的！" : "./imgs/lake.jpg",
         "虽然相隔万里" : "./imgs/plane.jpg",
-        "并没有因此变远" : "./imgs/airport.jpg",
+        "我能感受到" : "./imgs/airport.jpg",
+        "并没有因此变远" : "./imgs/videoLondon.jpg",
         "祝你在London过的开心":"./imgs/street.jpg",
         "好好玩也要好好学习哦~" : "./imgs/church.jpg",
         "my sweetheart":"./imgs/kiss.jpg",
         "石佳玥":"./imgs/riverme.jpg",
+        "过一过更好的人生！":"./imgs/cuteCat.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
