@@ -12,7 +12,7 @@ var config = {
         "这些日子里",
         "我每天都很想你哦",//shadow
         "你也很想我叭~",
-        "我好想念",
+        "我好想念", //lake
         "和你漫步在北京街头的那几天",//mt
         "我好希望",
         "能快点再和你见面",//clould
@@ -22,10 +22,10 @@ var config = {
         "我们之间的距离",
         "并没有因此变远",//videoLondon
         "甚至",
-        "变得更近了呢",//shoes
+        "变得更近了呢",//videoLove
         "我们还有十个月才能再见",//alley
         "但是别担心！",
-        "我会一直等你回来的！",//lake
+        "我会一直等你回来的！",//shoes
         "有好多好多的事",
         "想和你一起去完成",
         "有好多好多话",
@@ -68,11 +68,12 @@ var config = {
         "也是我们在一起的" : "./imgs/italia.jpg",
         "第48天了哦~": "./imgs/love.jpg",
         "我每天都很想你":"./imgs/shadow.jpg",
+        "我好想念":"./imgs/lake.jpg",
         "和你漫步在北京街头的那几天":"./imgs/mt.jpg",
         "能快点再和你见面" : "./imgs/clould.jpg",
-        "变得更近了呢" : "./imgs/shoes.jpg",
+        "变得更近了呢" : "./imgs/videoLove.jpg",
         "我们还有十个月才能再见面" : "./imgs/alley.jpg",
-        "我会一直在家里等你回来的！" : "./imgs/lake.jpg",
+        "我会一直在家里等你回来的！" : "./imgs/shoes.jpg",
         "虽然相隔万里" : "./imgs/plane.jpg",
         "我能感受到" : "./imgs/airport.jpg",
         "并没有因此变远" : "./imgs/videoLondon.jpg",
