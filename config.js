@@ -88,12 +88,12 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "试着点一下~",
+        turn_on: "准备好了就开始叭",
         play: "来点音乐~",
-        bannar_coming: "来点儿生日氛围~",
+        bannar_coming: "把这里装饰一下叭",
         balloons_flying: "好像少点东西",
         cake_fadein: "来个蛋糕",
-        light_candle: "再点个蜡烛叭",
+        light_candle: "再点个蜡烛",
         wish_message: "生日快乐呀宝~",
         story: "有一封信待查收",
     }
