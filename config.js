@@ -14,7 +14,7 @@ var config = {
         "我好想念", //lake
         "和你漫步在北京街头的那几天",//mt
         "我好希望",
-        "能快点再和你见面",//clould
+        "能快点再见到你",//clould
         "虽然相隔万里",//plane
         "但是",
         "我能感受到",//airport
@@ -33,7 +33,7 @@ var config = {
         "那就先",
         "祝你在London过的开心",//street
         "好好玩也要好好学习哦~",//church
-        "我一直都在！",
+        "我一直都在！",//green
         "Happy birthday~",
         "my sweetheart",//kiss
         "Yours",
@@ -81,6 +81,7 @@ var config = {
         "并没有因此变远" : "./imgs/videoLondon.jpg",
         "祝你在London过的开心":"./imgs/street.jpg",
         "好好玩也要好好学习哦~" : "./imgs/church.jpg",
+        "我一直都在！" : "./imgs/green.jpg",
         "my sweetheart":"./imgs/kiss.jpg",
         "石佳玥":"./imgs/riverme.jpg",
         "过一过更好的人生！":"./imgs/cuteCat.jpg",
@@ -89,7 +90,7 @@ var config = {
     desc: {
         turn_on: "试着点一下~",
         play: "来点音乐~",
-        bannar_coming: "要来点氛围感哦~",
+        bannar_coming: "来点儿生日氛围~",
         balloons_flying: "好像少点东西",
         cake_fadein: "来个蛋糕",
         light_candle: "再点个蜡烛叭",
