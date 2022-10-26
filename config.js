@@ -18,7 +18,7 @@ var config = {
         "虽然相隔万里",//plane
         "但是",
         "我能感受到",//airport
-        "我们之间的距离",
+        "我们之间的距离",//videoPhone
         "并没有因此变远",//videoLondon
         "甚至",
         "变得更近了呢",//videoLove
@@ -77,6 +77,7 @@ var config = {
         "我会一直在家里等你回来的！" : "./imgs/shoes.jpg",
         "虽然相隔万里" : "./imgs/plane.jpg",
         "我能感受到" : "./imgs/airport.jpg",
+        "我们之间的距离" : "./imgs/videoPhone.jpg",
         "并没有因此变远" : "./imgs/videoLondon.jpg",
         "祝你在London过的开心":"./imgs/street.jpg",
         "好好玩也要好好学习哦~" : "./imgs/church.jpg",
