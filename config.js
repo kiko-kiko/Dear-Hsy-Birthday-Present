@@ -8,9 +8,16 @@ var config = {
         "今天是你的生日！",
         "也是我们在一起的",//italia
         "第48天了哦~",//love
-        "这些天里",
-        "我每天都很想你哦",//shadow
-        "你也很想我叭~",
+        "这段时间下来",
+        "我觉得",
+        "你已经成为了我的习惯", // shadow
+        "习惯给你分享我的生活",
+        "习惯每天给你打电话",
+        "习惯每天入睡前和你说：",
+        "爱你哦~",// loveyou
+//         "这些天里",
+//         "我每天都很想你哦",//shadow
+//         "你也很想我叭~",
         "我好想念", //lake
         "和你漫步在北京街头的那几天",//mt
         "我好希望",
@@ -68,7 +75,9 @@ var config = {
         "MY HONEY": "./imgs/beauty.jpg",
         "也是我们在一起的" : "./imgs/italia.jpg",
         "第48天了哦~": "./imgs/love.jpg",
-        "我每天都很想你":"./imgs/shadow.jpg",
+        "你已经成为了我的习惯":"./imgs/shadow.jpg",
+        "爱你哦~":"./imgs/loveyou.jpg",
+//         "我每天都很想你":"./imgs/shadow.jpg",
         "我好想念":"./imgs/lake.jpg",
         "和你漫步在北京街头的那几天":"./imgs/mt.jpg",
         "能快点再和你见面" : "./imgs/clould.jpg",
