@@ -99,10 +99,10 @@ var config = {
     desc: {
         turn_on: "准备好了就开始叭",
         play: "来点音乐~",
-        bannar_coming: "把这里装饰一下叭",
-        balloons_flying: "好像少点东西",
+        bannar_coming: "稍微装饰一下",
+        balloons_flying: "好像还少点东西",
         cake_fadein: "来个蛋糕",
-        light_candle: "来把蜡烛点起来吧",
+        light_candle: "点个蜡烛 许个愿叭",
         wish_message: "生日快乐呀宝~",
         story: "有一封信待查收",
     }
