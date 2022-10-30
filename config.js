@@ -42,7 +42,8 @@ var config = {
         "纸短情长",
         "那就先",
         "祝你在London过的开心",//street
-        "好好玩也要好好学习哦~",//church
+//         "好好玩也要好好学习哦~",//church
+        "好好玩也要好好学习哦~",//cuteGhost
         "我一直都在！",//green
         "Happy birthday~",
         "my sweetheart",//kiss
@@ -89,7 +90,7 @@ var config = {
         "我们之间的距离" : "./imgs/videoPhone.jpg",
         "并没有因此变远" : "./imgs/videoLondon.jpg",
         "祝你在London过的开心":"./imgs/street.jpg",
-        "好好玩也要好好学习哦~" : "./imgs/church.jpg",
+        "好好玩也要好好学习哦~" : "./imgs/cuteGhost.jpg",
         "我一直都在！" : "./imgs/green.jpg",
         "my sweetheart":"./imgs/kiss.jpg",
         "爱你！":"./imgs/riverme.jpg",
